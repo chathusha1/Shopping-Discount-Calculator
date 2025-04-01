@@ -19,3 +19,8 @@ Technologies Used
   Java
 
   Scanner (for user input)
+
+📌 Author
+
+R.M. Chathusha Dinuranga – BSc (Hons) IT Student at SLIIT
+  
